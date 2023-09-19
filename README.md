@@ -1,6 +1,6 @@
 <!-- Add a Header with Background Image -->
 <div align="center">
-  <img src="https://logosmarken.com/wp-content/uploads/2020/11/Swiggy-Zeichen.png" alt="Swiggy Header Image" width="100%">
+  <img src="https://logosmarken.com/wp-content/uploads/2020/11/Swiggy-Zeichen.png" alt="Swiggy Header Image" width="50%">
 </div>
 
 <!-- Centered Heading with Custom Font -->
@@ -47,17 +47,14 @@
 <!-- Contribution Guidelines with Custom Styling -->
 <h2 style="color: #9B59B6; font-size: 24px;">🤝 Contribution Guidelines</h2>
 
-<p>We welcome contributions to enhance the Swiggy Bangalore City Hotels Dashboard project. Whether it's bug reports, feature requests, or improvements, please submit them via [GitHub Issues](https://github.com/your_username/swiggy-dashboard/issues).</p>
+<p>We welcome contributions to enhance the Swiggy Bangalore City Hotels Dashboard project. Whether it's bug reports, feature requests, or improvements, please submit them via [GitHub Issues](https://github.com/Sandy1114D/swiggy-dashboard/issues).</p>
 
-<!-- License Section with Custom Styling -->
-<h2 style="color: #3498DB; font-size: 24px;">📜 License</h2>
 
-<p>This project is licensed under the [MIT License](LICENSE.md).</p>
 
 <!-- Contact Section with Custom Styling -->
 <h2 style="color: #E67E22; font-size: 24px;">📧 Contact</h2>
 
-<p>If you have questions or need further assistance, feel free to reach out to us at [your_email@example.com](mailto:your_email@example.com).</p>
+<p>If you have questions or need further assistance, feel free to reach out to us at sanket3.r@gmail.com.</p>
 
 <!-- Add a Footer with Background Color -->
 <div align="center" style="background-color: #333; padding: 20px;">
@@ -73,19 +70,19 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=x46kGVQ56S4">
-    <img src="https://tse4.mm.bing.net/th?id=OIP.4f_Z_-IyFV3fjpnM9NdkDgHaEK&pid=Api&P=0&h=180" alt="Swiggy Dashboard Video" width="50%">
+    <img src="https://tse4.mm.bing.net/th?id=OIP.4f_Z_-IyFV3fjpnM9NdkDgHaEK&pid=Api&P=0&h=180" alt="Swiggy Dashboard Video" width="30%">
   </a>
 </div>
 
 <!-- Acknowledgments Section with Custom Styling -->
 <h2 align="center" style="color: #27AE60; font-size: 24px;">🙏 Acknowledgments</h2>
 
-<p align="center">We extend our gratitude to [Your Data Source Providers] for their invaluable data contributions.</p>
+<p align="center">We extend our gratitude to iNEURON for their invaluable data contributions.</p>
 
 <!-- Footer with Custom Styling -->
 <div align="center">
-  <a href="https://www.example.com">
-    <img src="https://www.example.com/footer_logo.png" alt="Footer Logo">
+  <a href="https://ineuron.ai/">
+    <img src="https://ineuron.ai/images/ineuron-logo.png" alt="Footer Logo" width="20%">
   </a>
 </div>
 
