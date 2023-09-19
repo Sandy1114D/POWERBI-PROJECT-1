@@ -64,7 +64,7 @@
 
 [Low Level Documentation](https://github.com/Sandy1114D/POWERBI-PROJECT-1/blob/main/Low%20Level%20Document.pdf)
 
-[Architecture Documentation]()
+[Architecture Documentation](https://github.com/Sandy1114D/POWERBI-PROJECT-1/blob/main/Architecture%20Design%20Document.pdf)
 
 [WireFrame]()
 
