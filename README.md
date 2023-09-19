@@ -60,7 +60,7 @@
 <div  style="background-color: #333; padding: 20px;">
 <h2 style="color: #E67E22; font-size: 24px;">📖 Documentation</h2>
 
-[High Level Documentation]()
+[High Level Documentation](https://github.com/Sandy1114D/POWERBI-PROJECT-1/blob/main/High%20level%20document.pdf)
 
 [Low Level Documentation]()
 
