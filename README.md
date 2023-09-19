@@ -57,12 +57,18 @@
 <p>If you have questions or need further assistance, feel free to reach out to us at sanket3.r@gmail.com.</p>
 
 <!-- Add a Footer with Background Color -->
-<div align="center" style="background-color: #333; padding: 20px;">
-  <a href="" style="color: white; margin: 0 10px;">High-Level Documentation</a>
-  <a href="https://github.com/your_username/swiggy-dashboard/docs/low_level_documentation.pdf" style="color: white; margin: 0 10px;">Low-Level Documentation</a>
-  <a href="https://github.com/your_username/swiggy-dashboard/docs/architecture.pdf" style="color: white; margin: 0 10px;">Architecture Documentation</a>
-  <a href="https://github.com/your_username/swiggy-dashboard/docs/wireframe.pdf" style="color: white; margin: 0 10px;">Wireframe</a>
-  <a href="https://github.com/your_username/swiggy-dashboard/docs/detailed_project_report.pdf" style="color: white; margin: 0 10px;">Detailed Project Report</a>
+<div  style="background-color: #333; padding: 20px;">
+<h2 style="color: #E67E22; font-size: 24px;">📖 Documentation</h2>
+
+[High Level Documentation]()
+
+[Low Level Documentation]()
+
+[Architecture Documentation]()
+
+[WireFrame]()
+
+[Detail Project Report]()
 </div>
 
 <!-- YouTube Video Section with Custom Styling -->
