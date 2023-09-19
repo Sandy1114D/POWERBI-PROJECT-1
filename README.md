@@ -66,7 +66,7 @@
 
 [Architecture Documentation](https://github.com/Sandy1114D/POWERBI-PROJECT-1/blob/main/Architecture%20Design%20Document.pdf)
 
-[WireFrame]()
+[WireFrame](https://github.com/Sandy1114D/POWERBI-PROJECT-1/blob/main/Swiggy%20Bangalore%20Data%20Analysis%20wireframe%20document.pdf)
 
 [Detail Project Report]()
 </div>
