@@ -72,8 +72,8 @@
 <h2 align="center" style="color: #E74C3C; font-size: 24px;">🎬 YouTube Video</h2>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=your_video_id">
-    <img src="https://www.example.com/youtube_thumbnail.png" alt="Swiggy Dashboard Video" width="50%">
+  <a href="https://www.youtube.com/watch?v=x46kGVQ56S4">
+    <img src="https://tse4.mm.bing.net/th?id=OIP.4f_Z_-IyFV3fjpnM9NdkDgHaEK&pid=Api&P=0&h=180" alt="Swiggy Dashboard Video" width="50%">
   </a>
 </div>
 
