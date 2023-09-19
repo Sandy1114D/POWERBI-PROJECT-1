@@ -62,7 +62,7 @@
 
 [High Level Documentation](https://github.com/Sandy1114D/POWERBI-PROJECT-1/blob/main/High%20level%20document.pdf)
 
-[Low Level Documentation]()
+[Low Level Documentation](https://github.com/Sandy1114D/POWERBI-PROJECT-1/blob/main/Low%20Level%20Document.pdf)
 
 [Architecture Documentation]()
 
